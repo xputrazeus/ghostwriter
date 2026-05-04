@@ -2,8 +2,8 @@
 // @name         GhostWriter Lite
 // @namespace    http://tampermonkey.net/
 // @version      Final
-// @description  xpzeus@proton.me
-// @author       bangputra
+// @description  Advanced invisible automation for healthcare screening administration
+// @author       xpzeus@proton.me
 // @match        https://form.kemkes.go.id/v2/skrining-form/*
 // @updateURL    https://raw.githubusercontent.com/xputrazeus/ghostwriter/main/ghostwriter.user.js
 // @downloadURL  https://raw.githubusercontent.com/xputrazeus/ghostwriter/main/ghostwriter.user.js
