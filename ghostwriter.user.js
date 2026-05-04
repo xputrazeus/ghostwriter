@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Ghostwriter Lite
+// @name         GhostWriter Lite
 // @namespace    http://tampermonkey.net/
 // @version      Final
 // @description  xpzeus@proton.me
